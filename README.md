@@ -26,6 +26,7 @@ Type git push to push to github and open it from there!
 Working on this page helped me to further my knowledge of CSS styling as well as bootstrap to layout a basic webpage. I learned how to add in media queries to make the page mobile responsive as well as learning a little bit more about padding, margins, and widths. I learned how to properly space pictures out and space containers the way I wanted to using padding and margins. I really liked building this website beacuse it was a serious challenge. I got it as close to the examples as possible and I feel very good with how it turned out. 
 
 [Deployed Site] https://a-mollenkopf.github.io/gt-bootstrap-portfolio-hw/
+
 # Credits
 
 https://fonts.google.com/
