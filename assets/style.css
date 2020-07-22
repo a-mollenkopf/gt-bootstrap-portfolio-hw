@@ -16,11 +16,12 @@
 }
 
 body {
-    background-image: url("https://i.imgur.com/Eeg1OS1.png");
+    background-image: url("https://i.imgur.com/vdsFZQH.png");
 }
 
+
 .container {
-    background-color: white;
+    background-color: rgb(218, 211, 211);
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -51,7 +52,5 @@ body {
     margin-left: 20px;
 }
 
-#portfolio {
-}
 
 
